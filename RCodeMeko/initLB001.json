@@ -1,0 +1,13 @@
+{
+        "code_dir" :  "/Users/15203/OneDrive/Documents/gisclass/mgisdata/604A Applied GIS/MEKO/RCodeMeko/",
+        "outputDir" :  "/Users/15203/OneDrive/Documents/gisclass/mgisdata/604A Applied GIS/MEKO/RCodeMeko/test_out/",
+        "flow_Dir":  "/Users/15203/OneDrive/Documents/gisclass/mgisdata/604A Applied GIS/MEKO/RCodeMeko/Mat Data for Meko/",
+        "tree1_Dir" : "/Users/15203/OneDrive/Documents/gisclass/mgisdata/604A Applied GIS/MEKO/RCodeMeko/test_out/NFtwoRiver1945/RLP1876/",
+        "tree2_Dir" : "/Users/15203/OneDrive/Documents/gisclass/mgisdata/604A Applied GIS/MEKO/RCodeMeko/test_out/NFtwoRiver1945/RNP1876/",
+         "jfig1": "1",
+         "treeFile1" : "Table1-SSR1.1876RLP.txt",
+         "treeFile2" : "Table1-SSR1.1876RNP.txt",
+         "treeFile1a" : "ReconstructionWithConfidenceIntervalTimeSeries.txt",
+        "treeFile2a" : "ReconstructionWithConfidenceIntervalTimeSeries.txt",
+        "fileNF" : "WYnaturalFlowsCNRFC.mat"
+}
