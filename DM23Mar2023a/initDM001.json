@@ -1,0 +1,13 @@
+{
+        "code_dir" :  "/home/dave/Data/RlibraryMeko/",
+        "outputDir" :  "/home/dave/AAATreeRO/test_out/",
+        "flow_Dir":  "/home/dave/Projects/ba1/Data_ba1/Flows_ba1/NaturalCNRFC/",
+        "tree1_Dir" : "/home/dave/Projects/ba1/Papers_ba1/TreeRO2023/test_out/NFtwoRiver1945/RLP1876/",
+        "tree2_Dir" : "/home/dave/Projects/ba1/Papers_ba1/TreeRO2023/test_out/NFtwoRiver1945/RNP1876/",
+         "jfig1": "1",
+         "treeFile1" : "Table1-SSR1.1876RLP.txt",
+         "treeFile2" : "Table1-SSR1.1876RNP.txt",
+         "treeFile1a" : "ReconstructionWithConfidenceIntervalTimeSeries.txt",
+        "treeFile2a" : "ReconstructionWithConfidenceIntervalTimeSeries.txt",
+        "fileNF" : "WYnaturalFlowsCNRFC.mat"
+}
